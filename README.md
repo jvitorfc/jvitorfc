@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in//"><i>Vítor Campos</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Rocket Seat</i></a>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.rocketseat.com.br/"><i>Rocket Seat</i></a>
 
 <div align="center">
   <a href="https://github.com/jvitorfc">
